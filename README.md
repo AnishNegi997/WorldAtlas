@@ -89,7 +89,6 @@ public/
 - **Created by:** [Anish Negi](https://github.com/AnishNegi997)
 - **Contact:** anishnegi997@gmail.com
 - **Location:** Dehradun, Uttarakhand
-- **Social:** [Instagram](https://www.instagram.com/anishnegi/)
 
 ---
 
