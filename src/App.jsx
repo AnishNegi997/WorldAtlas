@@ -16,9 +16,7 @@ const router = createBrowserRouter([
     element: <AppLayout />,
     errorElement: <ErrorPage/>,
 
-
     children: [
-
       {
         path: "/",
         element: <Home />
@@ -41,7 +39,9 @@ const router = createBrowserRouter([
       }
     ]
   }
-])
+], {
+  basename: "/WorldAtlas"
+});
 
 const App = () => {
   return (

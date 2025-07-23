@@ -16,7 +16,7 @@ export const HeroSection=()=>{
                     </button>
                 </div>
                 <div className="hero-image">
-                  <img src="/images/world.png" alt="world image" className="banner-image" />
+                  <img src={`${import.meta.env.BASE_URL}images/world.png`} alt="world image" className="banner-image" />
                 </div>
             </div>
         </main>
